@@ -1,1 +1,1 @@
-Sitemap: https://jekicker.github.io/sitemap.xml
+Sitemap: http://dev.gothamgreenpartners.com/sitemap.xml
