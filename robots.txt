@@ -1,1 +1,1 @@
-Sitemap: http://dev.gothamgreenpartners.com/sitemap.xml
+Sitemap: http://gothamgreenpartners.com/sitemap.xml
